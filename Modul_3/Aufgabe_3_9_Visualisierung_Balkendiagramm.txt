@@ -1,0 +1,21 @@
+1. Was fällt Dir an den folgenden Diagrammen von FoxNews auf?
+Die Diagramme zeigen zwei Balken mit zwei Werten, 
+welche aber nicht in Relation mit den erhobenen Werten in dem jeweiligen Zeitraum 
+gestellt/gezeigt werden. 
+Obwohl der Unterschied zwischen den angegebenen Werten nicht besonders groß ist, werden die Balken überproportional zu einander dargestellt.  
+Die Aussagekraft / Wahrheitswert muss in Frage gestellt werden
+
+Was würdest Du anders machen?
+
+Ich würde die Diagrammen wie in diesem Beispiel anzeigen:
+ https://flowingdata.com/2011/12/12/fox-news-still-makes-awesome-charts/ 
+https://flowingdata.com/2011/12/12/fox-news-still-makes-awesome-charts/
+Dazu Hintergründe zu Datenerhebung und zu möglichen Zugang zu den Daten geben (Stichwort: Open Data)
+
+Welche Botschaft wollten die “Designer” vermutlich vermitteln? 
+Mit dieser Art der Diagrammerstellung werden Sachverhalte nicht im richtigen Verhältnis gestellt. 
+Die Intention ist wahrscheinlich, durch falsche Visualisierungen Tatsachen nicht wahrheitsgetreu darzustellen
+ und so gezielt Meinungen zu manipulieren. 
+ 
+Passt die Botschaft mit den Daten zusammen? 
+Eindeutig nein (siehe oben)
